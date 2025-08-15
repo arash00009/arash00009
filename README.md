@@ -1,6 +1,6 @@
 # Arash Rahimi - DevOps Engineering Student
 
-Hej! Jag studerar DevOps Engineering vid [Din Skola] i Stockholm och söker praktik från hösten 2025. Jag är passionerad kring automatisering, cloud och CI/CD.
+Hej! Jag studerar DevOps Engineering vid [Din Skola] i Stockholm och söker praktik från 13 januari 2026- 2 maj 2026. Jag är passionerad kring automatisering, cloud och CI/CD.
 
 ## Kontakt
 - E-post: arash_rahimi92@hotmail.com
