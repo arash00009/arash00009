@@ -1,12 +1,22 @@
-- 👋 Hi, I’m @arash00009
-- 👀 I’m interested in dataanalys, reserachs, Devops Engineering, data, 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Arash Rahimi - DevOps Engineering Student
 
-<!---
-arash00009/arash00009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hej! Jag studerar DevOps Engineering vid [Din Skola] i Stockholm och söker praktik från hösten 2025. Jag är passionerad kring automatisering, cloud och CI/CD.
+
+## Kontakt
+- E-post: arash_rahimi92@hotmail.com
+- LinkedIn: [linkedin.com/in/dindevops](https://www.linkedin.com/in/arash-rahimi-688167142/) 
+- Landskrona, Sverige
+- Öppen för praktik och samarbeten!
+
+## Tekniker & Verktyg
+Linux | Docker | Kubernetes inlärning pågår | AWS | Azure | Git inlärning pågår | GitHub Actions inlärning pågår | Jenkins inlärning pågår | Bash | Python
+
+## Projekt
+### [Syvbyran]
+Jag håller på att utveckla en plattform som minskar arbetslösaheten. Syftet är att beslutfattarna kan ta beslut baserat på data och fakta.
+
+## Om mig
+Jag vill utvecklas inom DevOps, cloud och moderna CI/CD-flöden. Siktar på att jobba med automation och scalable lösningar.
+
+---
+
