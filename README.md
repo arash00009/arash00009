@@ -1,22 +1,26 @@
-# Arash Rahimi - DevOps Engineering Student
 
-Hej! Jag studerar DevOps Engineering vid Lernia YH i Stockholm och söker praktik från 13 januari 2026- 2 maj 2026. Jag är passionerad kring automatisering, cloud och CI/CD.
+Hello👋 I'm Arash Rahimi 👨🏻‍💻
 
-## Kontakt
-- E-post: arash_rahimi92@hotmail.com
-- LinkedIn: [linkedin.com/in/dindevops](https://www.linkedin.com/in/arash-rahimi-688167142/) 
-- Landskrona, Sverige
-- Öppen för praktik och samarbeten!
+I am a Cloud DevOps Engineer student and hold a degree in Sociology from Sweden. I want to grow within DevOps, cloud, and modern CI/CD workflows. My goal is to work with automation and scalable solutions.
 
-## Tekniker & Verktyg
-Linux | Docker | Kubernetes inlärning pågår | AWS | Azure | Git inlärning pågår | GitHub Actions inlärning pågår | Jenkins inlärning pågår | Bash | Python
+Currently I am Looking for an internship from January 13, 2026 – May 2, 2026.
+I am passionate about automation, cloud, and CI/CD.
 
-## Projekt
-### [Syvbyran]
-Jag håller på att utveckla en plattform som minskar arbetslösaheten. Syftet är att beslutfattarna kan ta beslut baserat på data och fakta.
+Contact
+Email: arash_rahimi92@hotmail.com
 
-## Om mig
-Jag vill utvecklas inom DevOps, cloud och moderna CI/CD-flöden. Siktar på att jobba med automation och scalable lösningar.
+LinkedIn: www.linkedin.com/in/arash-rahimi92
 
----
+Location: Landskrona, Sweden
+
+Open for internships and collaborations!
+
+Technologies & Tools
+Linux | Docker | Kubernetes (in progress) | AWS | Azure | Git (in progress) | GitHub Actions (in progress) | Jenkins (in progress) | Bash | Python
+
+Project
+[Syvbyran]
+I am developing a platform aimed at reducing unemployment in Sweden. The purpose is to enable decision-makers to make informed decisions based on data and facts.
+
+
 
