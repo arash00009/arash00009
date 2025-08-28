@@ -1,5 +1,5 @@
 
-#Hello👋 I'm Arash Rahimi 👨🏻‍💻
+Hello👋 I'm Arash Rahimi 👨🏻‍💻
 
 I am a Cloud DevOps Engineer student and hold a degree in Sociology from Sweden. I want to grow within DevOps, cloud, and modern CI/CD workflows. My goal is to work with automation and scalable solutions.
 
