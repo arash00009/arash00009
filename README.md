@@ -33,30 +33,4 @@ loki        3/3     3            3           142d
 tempo       3/3     3            3           142d
 grafana     1/1     1            1           142d
 
-🛠️ Tech Stack
-<p align="left">
-<strong>☸️ Container & Orchestration:</strong><br>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
-<br><br>
-<strong>🔄 GitOps & CI/CD:</strong><br>
-<img src="https://img.shields.io/badge/FluxCD-5468FF?style=for-the-badge&logo=flux&logoColor=white" />
-<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-<br><br>
-<strong>📊 Observability (LGTM Stack):</strong><br>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-<img src="https://img.shields.io/badge/Loki-F5A623?style=for-the-badge&logo=grafana&logoColor=white" />
-<img src="https://img.shields.io/badge/Tempo-12161A?style=for-the-badge&logo=grafana&logoColor=white" />
-<br><br>
-<strong>☁️ Cloud, IaC & OS:</strong><br>
-<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-</p>
+
