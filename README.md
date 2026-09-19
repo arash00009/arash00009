@@ -56,7 +56,7 @@ Innan tech arbetade jag i flera år inom svensk offentlig sektor, bland annat so
 ## 📌 Utvalda projekt
 
 ### 🔭 [my-devops-thesis-project](https://github.com/arash00009/my-devops-thesis-project)
-Komplett GitOps-baserad Internal Developer Platform för observability på Kubernetes — examensarbete/LIA på Cloudist AB. Full LGTM-stack, multi-miljö (base/staging/production), automatiserad TLS.
+GitOps observability stack on Kubernetes: FluxCD, Traefik, Prometheus, Loki, Tempo, Grafana
 
 ### ⚙️ [terraform-k8s-platform](https://github.com/arash00009/terraform-k8s-platform)
 Egen fritidsbyggd Terraform + Kubernetes-plattform med modulär IaC, isolerat dev/prod-state via HCP Terraform, och FluxCD-integrerad GitOps-leverans.
