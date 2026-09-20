@@ -2,11 +2,11 @@
 
 # Hej, jag är Arash 👋
 
-### Junior DevOps Engineer | Kubernetes · Terraform · GitOps · Observability
+### Junior DevOps / Platform Engineer | Kubernetes · Terraform · GitOps · Observability
 
-Jag bygger Kubernetes-plattformar som utvecklare faktiskt litar på — med samma strukturerade tänkande jag en gång använde för att guida människor genom komplexa myndighetssystem.
+Jag bygger Kubernetes-plattformar som går att återskapa från Git, och förklarar dem så att andra förstår.
 
-📍 Landskrona, Sverige · Öppen för roller i Sverige, Norden & EU
+📍 Landskrona, Sverige · Öppen för roller i Skåne, Norden & EU
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/arash-rahimi92)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arash_rahimi92@hotmail.com)
@@ -18,11 +18,20 @@ Jag bygger Kubernetes-plattformar som utvecklare faktiskt litar på — med samm
 
 ## 🚀 Om mig
 
-Nyutexaminerad DevOps Engineer (YH, juni 2026) som gillar att bygga saker som faktiskt fungerar i produktion — inte bara i teorin.
+- Karriärbytare: från sociologi och flera år som studie- och yrkesvägledare till DevOps Engineer (YH, Lernia, juni 2026)
+- Mitt examensarbete på **Cloudist AB** var en GitOps-baserad observability-plattform på Kubernetes
+- Jag lär mig genom att bygga, och skriver ned det som gick fel, inte bara det som gick bra
+- Grundare av Syvbyrån AB
 
-Under mitt examensarbete på **Cloudist AB** designade och driftsatte jag en komplett GitOps-baserad Internal Developer Platform: en fullständig LGTM-stack (Prometheus, Loki, Tempo, Grafana) med FluxCD, Kustomize och Helm över flera miljöer, säker extern åtkomst via Traefik och automatiserad TLS med cert-manager.
+---
 
-Innan tech arbetade jag i flera år inom svensk offentlig sektor, bland annat som studie- och yrkesvägledare. Den erfarenheten gav mig något jag ser många rena teknikprofiler sakna: förmågan att förklara komplexa system för icke-tekniska intressenter och strukturera kaotiskt arbete.
+## 🎯 Fokus just nu
+
+- Förbereder CKA (Certified Kubernetes Administrator)
+- GitOps med FluxCD och Argo CD
+- Terraform: moduler, remote state och flera miljöer
+- Observability med Prometheus, Loki, Tempo och Grafana
+- GreenOps Sweden: en idé om DevOps-konsulting med fokus på molnkostnad och klimatavtryck
 
 ---
 
@@ -53,29 +62,31 @@ Innan tech arbetade jag i flera år inom svensk offentlig sektor, bland annat so
 
 ---
 
-## 📌 Utvalda projekt
+## 📌 Projekt
 
-### 🔭 [my-devops-thesis-project](https://github.com/arash00009/my-devops-thesis-project)
-GitOps observability stack on Kubernetes: FluxCD, Traefik, Prometheus, Loki, Tempo, Grafana
-
-### ⚙️ [terraform-k8s-platform](https://github.com/arash00009/terraform-k8s-platform)
-Egen fritidsbyggd Terraform + Kubernetes-plattform med modulär IaC, isolerat dev/prod-state via HCP Terraform, och FluxCD-integrerad GitOps-leverans.
-
-### 📖 [guestbook-CICD](https://github.com/arash00009/guestbook-CICD)
-Fullstack three-tier-applikation (Nginx + Golang + PostgreSQL + Redis) med multi-stage builds, Secrets, PVC och HPA — end-to-end CI/CD-pipeline.
+- 🔭 [flux-observability-platform](https://github.com/arash00009/flux-observability-platform): GitOps-stack för metrics, loggar och traces på Kubernetes
+- ⚙️ [terraform-k8s-platform](https://github.com/arash00009/terraform-k8s-platform): Kubernetes-plattform steg för steg (v0.1 till v0.3) med kind, HCP Terraform, dev/prod och FluxCD
+- 🐝 [HiveBox](https://github.com/arash00009/End-to-End-hand-on-project): Python-API från kod till Kubernetes med Helm och Argo CD
+- 🌿 [greenops-api](https://github.com/arash00009/greenops-api): three-tier-app på Kubernetes med CI till GHCR
+- 🐳 [docker-best-practices-todo](https://github.com/arash00009/docker-best-practices-todo): säker Docker-build med Hadolint och Trivy i CI
 
 ---
 
-## 🎓 Bakgrund
+## 🎓 Utbildning & certifieringar
 
-- **Yrkeshögskoleexamen, DevOps Engineer** (400 YH-poäng) — Lernia Yrkeshögskola, 2024–2026
-- **Filosofie kandidatexamen, Sociologi** (statsvetenskaplig inriktning) — Linnéuniversitetet, 2017–2020
-- Certifieringar: AWS Academy Cloud Foundations · Red Hat OpenShift Administration I (DO180) · Red Hat OpenShift Development I (DO188)
+- Yrkeshögskoleexamen, DevOps Engineer: Lernia Yrkeshögskola, 2024–2026
+- Filosofie kandidat, Sociologi: Linnéuniversitetet
+- Microsoft Azure: AZ-900, AZ-104
+- Red Hat: RH124, RH134, DO188
+- AWS Academy Cloud Foundations
+- CKA: pågår
 
 ---
 
 <div align="center">
 
 💬 Öppen för Junior DevOps-, Platform Engineer- eller SRE-roller. Hör gärna av dig!
+
+*Bygger, dokumenterar och lär mig.*
 
 </div>
