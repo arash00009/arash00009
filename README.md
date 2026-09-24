@@ -63,12 +63,12 @@ Jag bygger Kubernetes-plattformar som går att återskapa från Git, och förkla
 ---
 
 ## 📌 Projekt
+- 🤖 [polaris-ai-platform](https://github.com/arash00009/polaris-ai-platform): lokal AI-plattform med FastAPI, Trivy/SBOM, Helm för tre miljöer och GitOps med Argo CD
 
 - 🔭 [flux-observability-platform](https://github.com/arash00009/flux-observability-platform): GitOps-stack för metrics, loggar och traces på Kubernetes
 - ⚙️ [terraform-k8s-platform](https://github.com/arash00009/terraform-k8s-platform): Kubernetes-plattform steg för steg (v0.1 till v0.3) med kind, HCP Terraform, dev/prod och FluxCD
 - 🐝 [HiveBox](https://github.com/arash00009/End-to-End-hand-on-project): Python-API från kod till Kubernetes med Helm och Argo CD
 - 🌿 [greenops-api](https://github.com/arash00009/greenops-api): three-tier-app på Kubernetes med CI till GHCR
-- 🐳 [docker-best-practices-todo](https://github.com/arash00009/docker-best-practices-todo): säker Docker-build med Hadolint och Trivy i CI
 
 ---
 
@@ -76,8 +76,8 @@ Jag bygger Kubernetes-plattformar som går att återskapa från Git, och förkla
 
 - Yrkeshögskoleexamen, DevOps Engineer: Lernia Yrkeshögskola, 2024–2026
 - Filosofie kandidat, Sociologi: Linnéuniversitetet
-- Microsoft Azure: AZ-900, AZ-104
-- Red Hat: RH124, RH134, DO188
+- Microsoft Azure: kursmoduler AZ-900 och AZ-104 (Lernia)
+- Red Hat Academy: RH124, RH134, DO180, DO188
 - AWS Academy Cloud Foundations
 - CKA: pågår
 
