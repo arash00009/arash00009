@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hej, jag är Arash 👋
+# Hi, I'm Arash 👋
 
-### Junior DevOps / Platform Engineer | Kubernetes · Terraform · GitOps · Observability
+### DevOps / Platform Engineer | Kubernetes · GitOps · Terraform · Observability
 
-Jag bygger Kubernetes-plattformar som går att återskapa från Git, och förklarar dem så att andra förstår.
+I build Kubernetes platforms that can be recreated from Git, and I explain them so other people understand them.
 
-📍 Landskrona, Sverige · Öppen för roller i Skåne, Norden & EU
+📍 Landskrona, Sweden · Open to roles in Skåne, Copenhagen, the Nordics and the EU
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/arash-rahimi92)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arash_rahimi92@hotmail.com)
@@ -16,77 +16,75 @@ Jag bygger Kubernetes-plattformar som går att återskapa från Git, och förkla
 
 ---
 
-## 🚀 Om mig
+## About me
 
-- Karriärbytare: från sociologi och flera år som studie- och yrkesvägledare till DevOps Engineer (YH, Lernia, juni 2026)
-- Mitt examensarbete på **Cloudist AB** var en GitOps-baserad observability-plattform på Kubernetes
-- Jag lär mig genom att bygga, och skriver ned det som gick fel, inte bara det som gick bra
-- Grundare av Syvbyrån AB
-
----
-
-## 🎯 Fokus just nu
-
-- Förbereder CKA (Certified Kubernetes Administrator)
-- GitOps med FluxCD och Argo CD
-- Terraform: moduler, remote state och flera miljöer
-- Observability med Prometheus, Loki, Tempo och Grafana
-- GreenOps Sweden: en idé om DevOps-konsulting med fokus på molnkostnad och klimatavtryck
+- Career changer: sociology degree and three years as a career counsellor, then a DevOps Engineer diploma (Lernia, June 2026)
+- Thesis and internship at **Cloudist AB**: a GitOps-based observability platform on Kubernetes (FluxCD + LGTM)
+- I learn by building, and I write down what broke and how I fixed it, not only what worked
+- Founder of Syvbyrån AB
 
 ---
 
-## 🛠️ Tech Stack
+## What I'm working on
 
-**Orkestrering & Containers**  
+- **Polaris AI Platform**: GitOps delivery and observability for an AI service (Argo CD, Helm, OpenTelemetry)
+- Preparing for the CKA (Certified Kubernetes Administrator)
+- Terraform: modules, remote state and multiple environments
+
+---
+
+## Tech stack
+
+**Orchestration & containers**
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat&logo=redhatopenshift&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat&logo=podman&logoColor=white)
 
-**Infrastructure as Code & GitOps**  
+**IaC, GitOps & CI/CD**
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![FluxCD](https://img.shields.io/badge/FluxCD-5468FF?style=flat&logo=flux&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
-**Observability**  
+**Observability**
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![Loki](https://img.shields.io/badge/Loki-F5A623?style=flat)
 ![Tempo](https://img.shields.io/badge/Tempo-F5A623?style=flat)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat&logo=opentelemetry&logoColor=white)
 
-**Cloud & Infrastruktur**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
----
-
-## 📌 Projekt
-- 🤖 [polaris-ai-platform](https://github.com/arash00009/polaris-ai-platform): lokal AI-plattform med FastAPI, Trivy/SBOM, Helm för tre miljöer och GitOps med Argo CD
-
-- 🔭 [flux-observability-platform](https://github.com/arash00009/flux-observability-platform): GitOps-stack för metrics, loggar och traces på Kubernetes
-- ⚙️ [terraform-k8s-platform](https://github.com/arash00009/terraform-k8s-platform): Kubernetes-plattform steg för steg (v0.1 till v0.3) med kind, HCP Terraform, dev/prod och FluxCD
-- 🐝 [HiveBox](https://github.com/arash00009/End-to-End-hand-on-project): Python-API från kod till Kubernetes med Helm och Argo CD
-- 🌿 [greenops-api](https://github.com/arash00009/greenops-api): three-tier-app på Kubernetes med CI till GHCR
+**Linux & cloud**
+![Linux](https://img.shields.io/badge/Linux_(RHEL)-FCC624?style=flat&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS_(fundamentals)-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure_(fundamentals)-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
 ---
 
-## 🎓 Utbildning & certifieringar
+## Projects
 
-- Yrkeshögskoleexamen, DevOps Engineer: Lernia Yrkeshögskola, 2024–2026
-- Filosofie kandidat, Sociologi: Linnéuniversitetet
-- Microsoft Azure: kursmoduler AZ-900 och AZ-104 (Lernia)
-- Red Hat Academy: RH124, RH134, DO180, DO188
+- 🤖 [polaris-ai-platform](https://github.com/arash00009/polaris-ai-platform): GitOps platform for an AI service. FastAPI, Trivy/SBOM, Helm across dev/staging/prod, Argo CD from a separate [config repo](https://github.com/arash00009/polaris-gitops), Prometheus/Loki/Grafana via OpenTelemetry *(in progress)*
+- 🔭 [flux-observability-platform](https://github.com/arash00009/flux-observability-platform): my thesis. Metrics, logs and traces on Kubernetes, reconciled by FluxCD
+- 🐝 [HiveBox](https://github.com/arash00009/End-to-End-hand-on-project): Python API from code to cluster with Docker, GitHub Actions, Helm and Argo CD
+- ⚙️ [terraform-k8s-platform](https://github.com/arash00009/terraform-k8s-platform): Kind clusters with modular Terraform, HCP Terraform state, dev/prod and FluxCD
+- 🌿 [greenops-cost-estimator](https://github.com/arash00009/greenops-cost-estimator): small API that estimates cloud cost and CO2 per region
+
+---
+
+## Education & courses
+
+- Higher Vocational Diploma, DevOps Engineer: Lernia, 2024–2026
+- BA in Sociology: Linnaeus University, 2017–2020
+- Red Hat Academy courses: RH124, RH134, DO180, DO188
 - AWS Academy Cloud Foundations
-- CKA: pågår
+- Azure AZ-900 and AZ-104 course modules (exams not taken)
+- CKA: in progress
 
 ---
 
 <div align="center">
 
-💬 Öppen för Junior DevOps-, Platform Engineer- eller SRE-roller. Hör gärna av dig!
-
-*Bygger, dokumenterar och lär mig.*
+💬 Open to junior DevOps, Platform Engineer and SRE roles. Feel free to reach out!
 
 </div>
