@@ -18,7 +18,7 @@ I build Kubernetes platforms that can be recreated from Git, and I explain them 
 
 ## About me
 
-- Career changer: sociology degree and three years as a career counsellor, then a DevOps Engineer diploma (Lernia, June 2026)
+- Career changer: sociology degree and almost three years as a career counsellor, then a DevOps Engineer diploma (Lernia, June 2026)
 - Thesis and internship at **Cloudist AB**: a GitOps-based observability platform on Kubernetes (FluxCD + LGTM)
 - I learn by building, and I write down what broke and how I fixed it, not only what worked
 - Founder of Syvbyrån AB
@@ -64,7 +64,7 @@ I build Kubernetes platforms that can be recreated from Git, and I explain them 
 
 ## Projects
 
-- 🤖 [polaris-ai-platform](https://github.com/arash00009/polaris-ai-platform): GitOps platform for an AI service. FastAPI, Trivy/SBOM, Helm across dev/staging/prod, Argo CD from a separate [config repo](https://github.com/arash00009/polaris-gitops), Prometheus/Loki/Grafana via OpenTelemetry *(in progress)*
+- 🤖 [polaris-ai-platform](https://github.com/arash00009/polaris-ai-platform): GitOps platform for an AI service. FastAPI, Trivy/SBOM, Helm across dev/staging/prod, Argo CD from a separate [config repo](https://github.com/arash00009/polaris-gitops), Prometheus metrics and OpenTelemetry logs in Grafana *(in progress)*
 - 🔭 [flux-observability-platform](https://github.com/arash00009/flux-observability-platform): my thesis. Metrics, logs and traces on Kubernetes, reconciled by FluxCD
 - 🐝 [HiveBox](https://github.com/arash00009/End-to-End-hand-on-project): Python API from code to cluster with Docker, GitHub Actions, Helm and Argo CD
 - ⚙️ [terraform-k8s-platform](https://github.com/arash00009/terraform-k8s-platform): Kind clusters with modular Terraform, HCP Terraform state, dev/prod and FluxCD
