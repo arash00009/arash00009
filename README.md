@@ -2,82 +2,92 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&width=435&lines=DevOps+%2F+Platform+Engineer;GitOps+%7C+Kubernetes+%7C+Terraform;Building+reliable+infrastructure)](https://git.io/typing-svg)
 
----
+<div align="center">
 
-## WHOAMI
+# Hi, I'm Arash 👋
 
-DevOps / Platform Engineer based in **Landskrona, Sweden** 🇸🇪  
-Working at [GreenOps](https://www.greenops.se)  
-Focused on **GitOps**, **Kubernetes**, **Terraform**, and **Observability**
 
-> *"Small, useful work over vague claims."*
+I build Kubernetes platforms that can be recreated from Git, and I explain them so other people understand them.
 
----
+📍 Landskrona, Sweden · Open to roles in Skåne, Copenhagen, the Nordics and the EU
 
-## TECH STACK / DETECTED
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/arash-rahimi92)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arash_rahimi92@hotmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://arash00009.github.io)
 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![FluxCD](https://img.shields.io/badge/FluxCD-5468FF?style=for-the-badge&logo=flux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+</div>
 
 ---
 
-## FEATURED PROJECTS
+## About me
 
-### 🚀 [polaris-ai-platform](https://github.com/arash00009/polaris-ai-platform)
-GitOps platform for an AI service: FastAPI, Trivy/SBOM, Helm (dev/staging/prod), Argo CD, Prometheus/Loki/Grafana via OpenTelemetry.
-`Shell`
-
-### 📊 [Flux-observability-platform](https://github.com/arash00009/Flux-observability-platform)
-GitOps observability stack on Kubernetes: FluxCD, Traefik, Prometheus, Loki, Tempo, Grafana.
-`open source`
-
-### 🔧 [Terraform-k8s-platform](https://github.com/arash00009/Terraform-k8s-platform)
-Kubernetes platform via Terraform: kind, HCP Terraform remote state, dev/prod environments, FluxCD bootstrap.
-`HCL`
-
-### 🐍 [End-to-End-hand-on-project](https://github.com/arash00009/End-to-End-hand-on-project)
-HiveBox: Python API to Kubernetes with Helm, Argo CD, GitHub Actions CI and Prometheus metrics.
-`Python`
-
-### 💰 [greenops-cost-estimator](https://github.com/arash00009/greenops-cost-estimator)
-REST API that estimates cloud cost and CO2 per instance size and region.
-`Python`
-
-### ⚙️ [polaris-gitops](https://github.com/arash00009/polaris-gitops)
-Argo CD config repo for polaris-ai-platform: Application manifests and image tags per environment (dev/staging/prod).
-`Shell`
+- Career changer: sociology degree and almost three years as a career counsellor, then a DevOps Engineer diploma (Lernia, June 2026)
+- Thesis and internship at **Cloudist AB**: a GitOps-based observability platform on Kubernetes (FluxCD + LGTM)
+- I learn by building, and I write down what broke and how I fixed it, not only what worked
+- Founder of Syvbyrån AB
 
 ---
 
-## CONTRIBUTION RHYTHM
+## What I'm working on
 
-![GitHub Streak](https://streak-stats.demolab.com?user=arash00009&theme=matrix&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arash00009&theme=matrix&hide_border=true)
-
----
-
-## STATS
-
-![Arash's GitHub stats](https://github-readme-stats.vercel.app/api?username=arash00009&show_icons=true&theme=matrix&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arash00009&layout=compact&theme=matrix&hide_border=true)
+- **Polaris AI Platform**: GitOps delivery and observability for an AI service (Argo CD, Helm, OpenTelemetry)
+- Preparing for the CKA (Certified Kubernetes Administrator)
+- Terraform: modules, remote state and multiple environments
 
 ---
 
-## CONNECT
+## Tech stack
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arash00009)
-[![GreenOps](https://img.shields.io/badge/GreenOps-00C853?style=for-the-badge&logo=leaf&logoColor=white)](https://www.greenops.se)
+**Orchestration & containers**
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat&logo=redhatopenshift&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat&logo=podman&logoColor=white)
+
+**IaC, GitOps & CI/CD**
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![FluxCD](https://img.shields.io/badge/FluxCD-5468FF?style=flat&logo=flux&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+**Observability**
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F5A623?style=flat)
+![Tempo](https://img.shields.io/badge/Tempo-F5A623?style=flat)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat&logo=opentelemetry&logoColor=white)
+
+**Linux & cloud**
+![Linux](https://img.shields.io/badge/Linux_(RHEL)-FCC624?style=flat&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS_(fundamentals)-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure_(fundamentals)-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
 ---
 
-*Profile generated with [GitSkins](https://www.gitskins.com/readme-generator)*
+## Projects
+
+- 🤖 [polaris-ai-platform](https://github.com/arash00009/polaris-ai-platform): GitOps platform for an AI service. FastAPI, Trivy/SBOM, Helm across dev/staging/prod, Argo CD from a separate [config repo](https://github.com/arash00009/polaris-gitops), Prometheus metrics and OpenTelemetry logs in Grafana *(in progress)*
+- 🔭 [flux-observability-platform](https://github.com/arash00009/flux-observability-platform): my thesis. Metrics, logs and traces on Kubernetes, reconciled by FluxCD
+- 🐝 [HiveBox](https://github.com/arash00009/End-to-End-hand-on-project): Python API from code to cluster with Docker, GitHub Actions, Helm and Argo CD
+- ⚙️ [terraform-k8s-platform](https://github.com/arash00009/terraform-k8s-platform): Kind clusters with modular Terraform, HCP Terraform state, dev/prod and FluxCD
+- 🌿 [greenops-cost-estimator](https://github.com/arash00009/greenops-cost-estimator): small API that estimates cloud cost and CO2 per region
+
+---
+
+## Education & courses
+
+- Higher Vocational Diploma, DevOps Engineer: Lernia, 2024–2026
+- BA in Sociology: Linnaeus University, 2017–2020
+- Red Hat Academy courses: RH124, RH134, DO180, DO188
+- AWS Academy Cloud Foundations
+- Azure AZ-900 and AZ-104 course modules (exams not taken)
+- CKA: in progress
+
+---
+
+<div align="center">
+
+💬 Open to junior DevOps, Platform Engineer and SRE roles. Feel free to reach out!
+
+</div>
