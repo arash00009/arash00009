@@ -1,4 +1,4 @@
-# Arash Rahimi
+# DevOps Engineer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&width=435&lines=DevOps+%2F+Platform+Engineer;GitOps+%7C+Kubernetes+%7C+Terraform;Building+reliable+infrastructure)](https://git.io/typing-svg)
 
