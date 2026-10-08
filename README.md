@@ -71,6 +71,7 @@ I build Kubernetes platforms that can be recreated from Git, and I explain them 
 - 🔭 [flux-observability-platform](https://github.com/arash00009/flux-observability-platform): my thesis. Metrics, logs and traces on Kubernetes, reconciled by FluxCD
 - 🐝 [HiveBox](https://github.com/arash00009/End-to-End-hand-on-project): Python API from code to cluster with Docker, GitHub Actions, Helm and Argo CD
 - ⚙️ [terraform-k8s-platform](https://github.com/arash00009/terraform-k8s-platform): Kind clusters with modular Terraform, HCP Terraform state, dev/prod and FluxCD
+- 📖 [guestbook-CICD](https://github.com/arash00009/guestbook-CICD): three-tier app on OpenShift (Go, Nginx, PostgreSQL, Redis) with GitHub Actions to Quay.io and Argo CD
 - 🌿 [greenops-cost-estimator](https://github.com/arash00009/greenops-cost-estimator): small API that estimates cloud cost and CO2 per region
 
 ---
