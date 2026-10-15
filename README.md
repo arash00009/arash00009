@@ -9,7 +9,7 @@
 
 I build Kubernetes platforms that can be recreated from Git, and I explain them so other people understand them.
 
-📍 Landskrona, Sweden · Open to roles in Skåne, Copenhagen, the Nordics and the EU
+📍 Skåne, Sweden · Moving to Alvesta in January 2027 · Ready to relocate wherever the job is, or work remote
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/arash-rahimi92)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arash_rahimi92@hotmail.com)
@@ -89,6 +89,6 @@ I build Kubernetes platforms that can be recreated from Git, and I explain them 
 
 <div align="center">
 
-💬 Open to junior DevOps, Platform Engineer and SRE roles. Feel free to reach out!
+💬 Open to junior DevOps, Platform Engineer and SRE roles, and ready to relocate wherever the job is. Feel free to reach out!
 
 </div>
